@@ -6,7 +6,6 @@ body{
 H1 {
   color: #777;
   font-size: 200%;
-  font-family: Calibri, Verdana, sans-serif;
   
 }
 P {
@@ -14,11 +13,15 @@ P {
 }
 
 H2 {
-  color: #3333666;
+  color: #555555;
   font-size: 150%;
-  font-family: Arial, Verdana, sans-serif;
   
 }
+
+H2 a{
+  color: #5588aa;
+}
+ 
 #container{
 	border-radius: 40px;
 	margin:0 auto;
